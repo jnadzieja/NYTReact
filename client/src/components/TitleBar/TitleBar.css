@@ -1,0 +1,23 @@
+.title {
+  font-size: 46px;
+  font-weight: 550;
+  margin-top: 2rem;
+  color: #fff;
+}
+
+.subtitle {
+  font-size: 38px;
+  color: #fff;
+  padding-bottom: 2rem;
+}
+
+.titlebarStyling {
+  background: DarkSlateBlue;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.shadow {
+  box-shadow: 1px 1px 4px;
+  border-radius: 6px;  
+}

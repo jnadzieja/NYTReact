@@ -1,0 +1,9 @@
+.buffer {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.border {
+  border: solid 1px #ccc;
+  border-radius: 6px;
+}

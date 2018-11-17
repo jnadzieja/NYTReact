@@ -1,0 +1,34 @@
+.buffer {
+  margin-top: 2rem;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.formBuffer {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.inputBuffer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.borderPlus {
+  border: solid 1px #ccc;
+  border-radius: 6px;
+}
+
+.center {
+  float: right;
+}
+
+.buttonStyle {
+  background: DarkSlateBlue;
+  border-radius: 6px;
+  color: #fff;
+}
+
+.buttonStyle:hover {
+  color: #fff;
+}
